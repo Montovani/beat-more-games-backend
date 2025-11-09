@@ -1,0 +1,22 @@
+{
+  "gamesAddedToList": [
+    {
+      "id": "1",
+      "idGameApi": "292844",
+      "gameStatus": "finished",
+      "gameReview": {
+        "dateOfReview": "13/10/2025",
+        "review": "That was a good game"
+      },
+      "hoursPlayed": 5,
+      "startedDate": "11/10/2025",
+      "finishedDate": "12/10/2025",
+      "platformPlayed": "ps5",
+      "gameInfo": {
+        "name": "Silksong",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg"
+      }
+    }
+  ]
+}
