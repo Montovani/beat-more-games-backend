@@ -10,7 +10,7 @@ const middlewares = jsonServer.defaults()
 server.use(middlewares)
 
 //create all the routes (ALL URLs and Methods) and the DB in json format
-const router = jsonServer.router('gamesAddToList.json')
+const router = jsonServer.router('db.json')
 
 //apply all the routes and db to the server
 server.use(router)
