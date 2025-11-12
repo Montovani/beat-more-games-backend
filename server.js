@@ -1,3 +1,9 @@
+try {
+  // loads the variables in the .env for us to use here
+  process.loadEnvFile()
+} catch (error) {
+  console.log("cannot find .env file, using default values")
+}
 const  jsonServer = require('json-server')
 
 //creating the server
@@ -16,7 +22,7 @@ const router = jsonServer.router('db.json')
 server.use(router)
 
 //PORT for the server to comunicate with clients
-const PORT = 5005
+const PORT = process.env.PORT
 
 //will make the server actively lister for request from clients
 server.listen(PORT, ()=>{
