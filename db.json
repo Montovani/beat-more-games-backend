@@ -264,8 +264,8 @@
       "idGameApi": 3328,
       "gameStatus": "finished",
       "gameReview": {
-        "dateOfReview": "2025-11-13T19:43:33.152Z",
-        "review": "Test"
+        "dateOfReview": "2025-11-14T07:00:35.457Z",
+        "review": "this is a new game taht i played and liked a lot."
       },
       "hoursPlayed": null,
       "startedDate": null,
@@ -319,6 +319,26 @@
       },
       "isAddedToDashboard": true,
       "id": "iK1uNHc"
+    },
+    {
+      "idGameApi": 4291,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-14T07:05:48.744Z",
+        "review": "test"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Counter-Strike: Global Offensive",
+        "genre": "Shooter",
+        "image": "https://media.rawg.io/media/games/736/73619bd336c894d6941d926bfd563946.jpg",
+        "slug": "counter-strike-global-offensive"
+      },
+      "isAddedToDashboard": true,
+      "id": "ykVnufH"
     }
   ]
 }
