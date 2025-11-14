@@ -1,62 +1,324 @@
 {
   "gamesAddedToList": [
     {
-      "id": "1",
-      "idGameApi": "292844",
-      "gameStatus": "finished",
+      "idGameApi": 19458,
+      "gameStatus": "wishlist",
       "gameReview": {
-        "dateOfReview": "13/10/2025",
-        "review": "That was a good game"
+        "dateOfReview": "2025-11-13T19:16:42.243Z",
+        "review": "This is a new"
       },
-      "hoursPlayed": 5,
-      "startedDate": "11/10/2025",
-      "finishedDate": "12/10/2025",
-      "platformPlayed": "ps5",
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
       "gameInfo": {
-        "name": "Silksong",
+        "name": "Doom 3",
         "genre": "Action",
-        "image": "https://media.rawg.io/media/games/27c/27cd8b7dead05a870f8a514a9a1915ad.jpg"
-      }
+        "image": "https://media.rawg.io/media/games/3b0/3b01313965c19adc6b6c37a3d9d33576.jpg",
+        "slug": "doom-3"
+      },
+      "isAddedToDashboard": true,
+      "id": "6O212zC"
     },
     {
-      "id": "D9sf0sx"
+      "idGameApi": 19103,
+      "gameStatus": "wishlist",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:03:42.320Z",
+        "review": "Nice game!"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Half-Life 2: Lost Coast",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/b7b/b7b8381707152afc7d91f5d95de70e39.jpg",
+        "slug": "half-life-2-lost-coast"
+      },
+      "isAddedToDashboard": true,
+      "id": "Y90PIUm"
     },
     {
-      "idGameApi": 10243,
+      "idGameApi": 704787,
       "gameStatus": "finished",
       "gameReview": {
-        "dateOfReview": "2025-11-11T19:48:20.895Z",
+        "dateOfReview": "2025-11-13T19:44:12.391Z",
+        "review": "This is a new game that I'm playing."
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "ARC Raiders",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/5af/5af62b2725a440cf6858ce66b30151e5.jpg",
+        "slug": "arc-raiders"
+      },
+      "isAddedToDashboard": true,
+      "id": "YzqkVrl"
+    },
+    {
+      "idGameApi": 278,
+      "gameStatus": "wishlist",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T13:00:15.853Z",
+        "review": null
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Horizon Zero Dawn",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/b7d/b7d3f1715fa8381a4e780173a197a615.jpg",
+        "slug": "horizon-zero-dawn"
+      },
+      "isAddedToDashboard": true,
+      "id": "jGQyusg"
+    },
+    {
+      "idGameApi": 28152,
+      "gameStatus": "finished",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:03:23.507Z",
+        "review": "This is a cool game as well"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "STAR WARS Battlefront II",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/f54/f54e9fb2f4aac37810ea1a69a3e4480a.jpg",
+        "slug": "star-wars-battlefront-2"
+      },
+      "isAddedToDashboard": true,
+      "id": "0lcuF61"
+    },
+    {
+      "idGameApi": 5286,
+      "gameStatus": "finished",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T14:32:50.717Z",
+        "review": null
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Tomb Raider (2013)",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/021/021c4e21a1824d2526f925eff6324653.jpg",
+        "slug": "tomb-raider"
+      },
+      "isAddedToDashboard": true,
+      "id": "p4J7Os_"
+    },
+    {
+      "idGameApi": 7689,
+      "gameStatus": "wishlist",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:13:25.606Z",
+        "review": "I want to go back to play"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Rise of the Tomb Raider",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/b45/b45575f34285f2c4479c9a5f719d972e.jpg",
+        "slug": "rise-of-the-tomb-raider"
+      },
+      "isAddedToDashboard": true,
+      "id": "c8O6cgA"
+    },
+    {
+      "idGameApi": 14227,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:22:00.508Z",
+        "review": "Funny game for people who is a fan of league of legends"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "League Of Guessing",
+        "genre": "Casual",
+        "image": "https://media.rawg.io/media/screenshots/288/288adc91d648b0dc278e1dec7b86f4d6.jpg",
+        "slug": "league-of-guessing"
+      },
+      "isAddedToDashboard": true,
+      "id": "pY9y0qF"
+    },
+    {
+      "idGameApi": 4161,
+      "gameStatus": "wishlist",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T17:16:51.777Z",
         "review": "Test"
       },
       "hoursPlayed": null,
-      "startedDate": "2025-11-11T19:48:20.895Z",
+      "startedDate": null,
       "finishedDate": null,
       "platformPlayed": null,
       "gameInfo": {
-        "name": "Company of Heroes 2",
-        "genre": "Strategy",
-        "image": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
-      },
-      "id": "f8uBwXW"
-    },
-    {
-      "idGameApi": 10243,
-      "gameStatus": "finished",
-      "gameReview": {
-        "dateOfReview": "2025-11-11T19:49:28.081Z",
-        "review": "tet"
-      },
-      "hoursPlayed": null,
-      "startedDate": "2025-11-11T19:49:28.081Z",
-      "finishedDate": null,
-      "platformPlayed": null,
-      "gameInfo": {
-        "name": "Company of Heroes 2",
-        "genre": "Strategy",
-        "image": "https://media.rawg.io/media/games/0bd/0bd5646a3d8ee0ac3314bced91ea306d.jpg"
+        "name": "Far Cry 3",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/15c/15c95a4915f88a3e89c821526afe05fc.jpg",
+        "slug": "far-cry-3"
       },
       "isAddedToDashboard": true,
-      "id": "3wCHw2N"
+      "id": "4eqxqNt"
+    },
+    {
+      "idGameApi": 13537,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T18:59:18.904Z",
+        "review": "This is a good game, hope I see the third one soon"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Half-Life 2",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/b8c/b8c243eaa0fbac8115e0cdccac3f91dc.jpg",
+        "slug": "half-life-2"
+      },
+      "isAddedToDashboard": true,
+      "id": "boJkcmS"
+    },
+    {
+      "idGameApi": 32,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T18:25:10.320Z",
+        "review": "Real flux? "
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Destiny 2",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/34b/34b1f1850a1c06fd971bc6ab3ac0ce0e.jpg",
+        "slug": "destiny-2"
+      },
+      "isAddedToDashboard": true,
+      "id": "zHOepgc"
+    },
+    {
+      "idGameApi": 27571,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:10:09.377Z",
+        "review": "Really liked this game!"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Donkey Kong Country",
+        "genre": "Platformer",
+        "image": "https://media.rawg.io/media/screenshots/6df/6df71f3ff0f6d6bbac306cb9adf935ee.jpg",
+        "slug": "donkey-kong-country"
+      },
+      "isAddedToDashboard": true,
+      "id": "3mme3yM"
+    },
+    {
+      "idGameApi": 1358,
+      "gameStatus": "wishlist",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:40:57.043Z",
+        "review": "Liked the game."
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Papers, Please",
+        "genre": "Simulation",
+        "image": "https://media.rawg.io/media/games/6d3/6d33014a4ed48a19c30a77ead5a0f62e.jpg",
+        "slug": "papers-please"
+      },
+      "isAddedToDashboard": true,
+      "id": "35IvdXE"
+    },
+    {
+      "idGameApi": 3328,
+      "gameStatus": "finished",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:43:33.152Z",
+        "review": "Test"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "The Witcher 3: Wild Hunt",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/618/618c2031a07bbff6b4f611f10b6bcdbc.jpg",
+        "slug": "the-witcher-3-wild-hunt"
+      },
+      "isAddedToDashboard": true,
+      "id": "-2pHiP6"
+    },
+    {
+      "idGameApi": 422,
+      "gameStatus": "playing",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:44:41.145Z",
+        "review": "Still playing this game."
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Terraria",
+        "genre": "Action",
+        "image": "https://media.rawg.io/media/games/f46/f466571d536f2e3ea9e815ad17177501.jpg",
+        "slug": "terraria"
+      },
+      "isAddedToDashboard": true,
+      "id": "Bpb-6XC"
+    },
+    {
+      "idGameApi": 3498,
+      "gameStatus": "finished",
+      "gameReview": {
+        "dateOfReview": "2025-11-13T19:46:33.600Z",
+        "review": "Really cool game!"
+      },
+      "hoursPlayed": null,
+      "startedDate": null,
+      "finishedDate": null,
+      "platformPlayed": null,
+      "gameInfo": {
+        "name": "Grand Theft Auto V",
+        "genre": "Strategy",
+        "image": "https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg",
+        "slug": "grand-theft-auto-v"
+      },
+      "isAddedToDashboard": true,
+      "id": "iK1uNHc"
     }
   ]
 }
